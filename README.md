@@ -1,5 +1,5 @@
 # Desvla page
-Pagina estatica em HTML e CSS, feito com flexbox.
+Pagina estatica responsiva em HTML e CSS, feito com flexbox.
 
 ### Imagem do site
 <img src="Desvla.png">
